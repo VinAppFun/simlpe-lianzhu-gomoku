@@ -1,0 +1,1 @@
+GoMoku, also known as GoBang or 5-in-a-Row, is a traditional oriental game played. In this android game, we can choose size of board, AI difficulty and whether play background music. AI is designed very simple.
